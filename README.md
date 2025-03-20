@@ -1,4 +1,4 @@
-# TwitterClone
+# Twitter-Clone
 This is my first git repository 
 <br>
 Author- Antima Goyal
